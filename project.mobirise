@@ -162,7 +162,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">We Create Memorable Websites That Sells</span>",
+          "title": "<span style=\"font-weight: normal;\">We Create Memorable Websites That Sells.</span>",
           "text": "<span style=\"font-style: normal;\">Converting, secure and well designed websites delivered on time &amp; budget</span>",
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://api.whatsapp.com/send?phone=919633975708\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>Chat Us On WhatsApp</a> ",
           "_tags": [
